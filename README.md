@@ -1,2 +1,4 @@
 # Datastructures-with-python
-- Implementation of Datastructes using classes in python
+- Implementation of Datastructures using classes in python4
+- Simple functions involve inseration, deletion, update etc
+- Implementation of different sorting algorithms using python
